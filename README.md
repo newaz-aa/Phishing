@@ -1,6 +1,8 @@
 
 This repository contains Python codes for phishing detection using ML models. A sophisticated framework based on Stacked Generalization has been developed to obtain reliable performance over diverse datasets. The 4 datasets utilized in this study are also provided here. 
- 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![scikit-learn](https://img.shields.io/pypi/v/scikit-learn?label=scikit-learn&color=blue)
 
 # Paper Title
 
