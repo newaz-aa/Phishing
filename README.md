@@ -22,7 +22,7 @@ In this project, a stacking ensemble classifier is constructed which can harness
 
 The performance of the developed system was tested on 4 different phishing datasets. The proposed algorithm outperformed the other existing phishing detection models obtaining accuracy of 97.49%, 98.23%, 97.48%, and 98.20% on the four datasets.
 
-### Screenshots
+### Performance
 
 ![App Screenshot](https://github.com/newaz-aa/Phishing/blob/main/Figures/fig_3.jpg)
 
