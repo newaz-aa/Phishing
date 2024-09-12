@@ -40,8 +40,3 @@ The performance of the developed system was tested on 4 different phishing datas
   year={2024}
 }
 ```
-  pages={100--105},
-  year={2024},
-  publisher={Publisher Name},
-  doi={10.1000/xyz123}
-}
