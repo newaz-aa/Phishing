@@ -33,12 +33,13 @@ The performance of the developed system was tested on 4 different phishing datas
 
 ### BibTeX Citation
 ```bibtex
-@article{author2024phishing,
+@article{newaz2024sophisticated,
   title={A Sophisticated Framework for the Accurate Detection of Phishing Websites},
-  author={Author Name(s)},
-  journal={Journal/Conference Name},
-  volume={XX},
-  number={X},
+  author={Newaz, Asif and Haq, Farhan Shahriyar and Ahmed, Nadim},
+  journal={arXiv preprint arXiv:2403.09735},
+  year={2024}
+}
+```
   pages={100--105},
   year={2024},
   publisher={Publisher Name},
