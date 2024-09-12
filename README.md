@@ -5,7 +5,6 @@ This repository contains Python codes for phishing detection using ML models. A 
 ![scikit-learn](https://img.shields.io/pypi/v/scikit-learn?label=scikit-learn&color=blue)
 
 ![XGBoost](https://img.shields.io/pypi/v/xgboost?label=XGBoost&color=orange)
-
 ![LightGBM](https://img.shields.io/pypi/v/lightgbm?label=LightGBM&color=green)
 
 
